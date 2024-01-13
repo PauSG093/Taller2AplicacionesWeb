@@ -1,0 +1,12 @@
+.navbar{
+    background-image: url(/ProyectoAWEB/Imagenes/fondo2.jpg);
+}
+
+.footer{
+    background-image: url(/ProyectoAWEB/Imagenes/fondo2.jpg);
+}
+
+.carouselExampleCaptions{
+    width: auto;
+    height: auto;
+}
